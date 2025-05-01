@@ -88,16 +88,16 @@ To address the "black-box" nature of deep learning, this project integrates **Gr
 
 Users can toggle live Grad-CAM heatmaps using the g key to better understand predictions in real time.
 
-**Folder Structure**
+## Folder Structure
 
-| AI-Powered-Hand-Gesture-Recognition/│
-├── app.py                           \# Final version with trustworthiness features
-├── sign\_language\_mobilenet.h5       \# Trained MobileNet model
-├── robustness\_logs.csv              \# Logs (auto-generated)
-├── gradcam\_\*.jpg                    \# GradCAM visualizations (auto-generated)
-├── README.md                        \# Project documentation
-├── requirements.txt                 \# Dependency list |
-| :---- |
+AI-Powered-Hand-Gesture-Recognition/
+├── app.py                     # Final version with trustworthiness features
+├── sign_language_mobilenet.h5 # Trained MobileNet model
+├── robustness_logs.csv        # Logs (auto-generated)
+├── gradcam_*.jpg              # GradCAM visualizations (auto-generated)
+├── README.md                  # Project documentation
+├── requirements.txt           # Dependency list
+
 
 **Trust Evaluation Outputs**
 
