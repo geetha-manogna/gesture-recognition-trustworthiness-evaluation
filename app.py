@@ -13,13 +13,13 @@ random.seed(42)
 np.random.seed(42)
 tf.random.set_seed(42)
 
-# Load trained model
+
 model = tf.keras.models.load_model("sign_language_mobilenet.h5")
 
-# Define class names (Update according to your dataset)
+
 class_names = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J"]
 
-# Initialize Mediapipe hand tracking
+
 mp_hands = mp.solutions.hands
 mp_drawing = mp.solutions.drawing_utils
 hands = mp_hands.Hands(min_detection_confidence=0.7, min_tracking_confidence=0.7)
