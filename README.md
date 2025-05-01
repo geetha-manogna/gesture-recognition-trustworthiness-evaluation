@@ -15,7 +15,8 @@ The primary goal of this extension is to assess how trustworthy the AI system re
 
 ### **1\. Clone the Repository**
 
-| git clone [https://github.com/geetha-manogna/AI-Powered-Hand-Gesture-Recognition-for\-Real-Time-Interaction.gitcd AI-Powered-Hand-Gesture-Recognition-for\-Real-Time-Interaction](https://github.com/geetha-manogna/gesture-recognition-trustworthiness-evaluation) |
+| git clone [https://github.com/geetha-manogna/AI-Powered-Hand-Gesture-Recognition-for\-Real-Time-Interaction.git
+cd AI-Powered-Hand-Gesture-Recognition-for\-Real-Time-Interaction](https://github.com/geetha-manogna/gesture-recognition-trustworthiness-evaluation) |
 | :---- |
 
 ### **2\. Install Dependencies**
