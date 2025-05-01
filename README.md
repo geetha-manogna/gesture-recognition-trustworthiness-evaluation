@@ -149,7 +149,9 @@ These outputs help assess both **model performance** and **decision clarity** un
 
   ### **Runtime Model Usage:**
 
-| import tensorflow as tfmodel \= tf.keras.models.load\_model("sign\_language\_mobilenet.h5") |
+| import tensorflow as tf|
+| :---- |
+model \= tf.keras.models.load\_model("sign\_language\_mobilenet.h5") |
 | :---- |
 
 ## **Citations & Acknowledgments**
