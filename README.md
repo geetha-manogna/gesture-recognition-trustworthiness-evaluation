@@ -15,7 +15,7 @@ The primary goal of this extension is to assess how trustworthy the AI system re
 
 ### **1\. Clone the Repository**
 
-| git clone https://github.com/geetha-manogna/AI-Powered-Hand-Gesture-Recognition-for\-Real-Time-Interaction.gitcd AI-Powered-Hand-Gesture-Recognition-for\-Real-Time-Interaction |
+| git clone [https://github.com/geetha-manogna/AI-Powered-Hand-Gesture-Recognition-for\-Real-Time-Interaction.gitcd AI-Powered-Hand-Gesture-Recognition-for\-Real-Time-Interaction](https://github.com/geetha-manogna/gesture-recognition-trustworthiness-evaluation) |
 | :---- |
 
 ### **2\. Install Dependencies**
@@ -88,7 +88,13 @@ Users can toggle live Grad-CAM heatmaps using the g key to better understand pre
 
 **Folder Structure**
 
-| AI-Powered-Hand-Gesture-Recognition/│├── app.py                           \# Final version with trustworthiness features├── sign\_language\_mobilenet.h5       \# Trained MobileNet model├── robustness\_logs.csv              \# Logs (auto-generated)├── gradcam\_\*.jpg                    \# GradCAM visualizations (auto-generated)├── README.md                        \# Project documentation├── requirements.txt                 \# Dependency list |
+| AI-Powered-Hand-Gesture-Recognition/│
+├── app.py                           \# Final version with trustworthiness features
+├── sign\_language\_mobilenet.h5       \# Trained MobileNet model
+├── robustness\_logs.csv              \# Logs (auto-generated)
+├── gradcam\_\*.jpg                    \# GradCAM visualizations (auto-generated)
+├── README.md                        \# Project documentation
+├── requirements.txt                 \# Dependency list |
 | :---- |
 
 **Trust Evaluation Outputs**
